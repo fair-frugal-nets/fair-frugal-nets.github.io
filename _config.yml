@@ -1,0 +1,24 @@
+title: Fair Frugal Nets
+description: >-
+  Neural networks that are both lean and fair — automatically designing
+  architectures that are simultaneously frugal, hardware-adapted, and
+  intrinsically free of algorithmic bias.
+theme: minima
+minima:
+  skin: dark
+  nav_pages:
+    - index.md
+    - publications.md
+    - team.md
+
+header_pages:
+  - publications.md
+  - team.md
+
+show_excerpts: false
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
