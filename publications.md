@@ -21,4 +21,4 @@ Publications produced within the project, organized by the three research axes.
 
 ## Searching for debiasing substructures
 
-- Igor Lima De Moura Matos, Anass Djennaz Saoud, Ekaterina Iakovleva, Vito Paolo Pastore, Enzo Tartaglione. **Bias In, Bias Out? Finding Unbiased Subnetworks in Vanilla Models.** *CVPR 2026*, pp. 3294–3305.
+- Ivan Luiz De Moura Matos, Abdel Djalil Sad Saoud, Ekaterina Iakovleva, Vito Paolo Pastore, Enzo Tartaglione. **Bias In, Bias Out? Finding Unbiased Subnetworks in Vanilla Models.** *CVPR 2026*, pp. 3294–3305.
