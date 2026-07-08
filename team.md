@@ -31,6 +31,4 @@ Research Engineer, Télécom Paris, Institut Polytechnique de Paris
 
 </div>
 
-## Funding
-
-This project is funded by the French National Research Agency (ANR) under the JCJC (Jeunes Chercheuses et Jeunes Chercheurs) program.
+{% include anr-ack.html %}

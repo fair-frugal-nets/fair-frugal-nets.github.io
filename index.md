@@ -30,3 +30,5 @@ The project has produced eight publications in leading international journals an
 This work paves the way for bias- and hardware-aware NAS methods capable of directly generating architectures compliant with regulatory requirements (AI Act) at no additional performance cost. Next steps aim to unify hardware sobriety and bias mitigation criteria within a single architecture search process, and to extend the BISE method to generative models (diffusion, multimodal LLMs), where bias amplification is particularly critical.
 
 See the full list of results on the [Publications](publications.html) page.
+
+{% include anr-ack.html %}

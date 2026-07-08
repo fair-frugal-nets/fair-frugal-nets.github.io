@@ -150,3 +150,29 @@ body {
 .site-footer {
   border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
+
+.anr-ack {
+  display: flex;
+  align-items: center;
+  gap: 1.2em;
+  margin-top: 3em;
+  padding: 1.2em 1.4em;
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+
+  .anr-logo {
+    height: 40px;
+    width: auto;
+    flex-shrink: 0;
+    background: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.9em;
+    opacity: 0.85;
+  }
+}
