@@ -7,7 +7,7 @@ permalink: /team.html
 <div class="team-grid">
 
 <div class="team-member">
-<img src="https://enzo-tartaglione.com/assets/img/foto_recentequadrata.png" alt="Enzo Tartaglione" width="150">
+<img src="https://enzotarta.github.io/assets/img/foto_recentequadrata.png" alt="Enzo Tartaglione" width="150">
 
 **Enzo Tartaglione** — *Principal Investigator*
 Full Professor, Télécom Paris, Institut Polytechnique de Paris
@@ -18,14 +18,14 @@ Full Professor, Télécom Paris, Institut Polytechnique de Paris
 <img src="https://enzotarta.github.io/assets/img/ivanluiz.jpg" alt="Ivan Luiz de Moura Matos" width="150">
 
 **Ivan Luiz de Moura Matos** — *PhD student*
-Télécom Paris, Institut Polytechnique de Paris
+Ph.D. student, Télécom Paris, Institut Polytechnique de Paris
 [LinkedIn](https://fr.linkedin.com/in/ivanmatos) · [OpenReview](https://openreview.net/profile?id=~Ivan_Luiz_De_Moura_Matos1)
 </div>
 
 <div class="team-member">
 
 **Frédéric Lauron** — *Research Engineer* (May 2025 – April 2026)
-Télécom Paris, Institut Polytechnique de Paris
+Research Engineer, Télécom Paris, Institut Polytechnique de Paris
 [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-lauron-b964b57b/)
 </div>
 
